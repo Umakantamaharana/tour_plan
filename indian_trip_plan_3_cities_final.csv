@@ -1,0 +1,34 @@
+Origin,City1,City2,City3,Duration1,Duration2,Duration3,Connection1,Connection2,Connection3,Connection4,Time1,Time2,Time3,Time4,Budget1,Budget2,Budget3
+Mumbai,Cuttack,Bhubaneswar,Puri,3,2,3,Mumbai - Bhubaneswar,Cuttack - Puri,Bhubaneswar - Mumbai,Puri - Cuttack,4,4,5,6,1000,1200,3000
+Agra,Delhi,Jhansi,Kanpur,2,3,7,Agra - Jhansi,Delhi - Kanpur,Jhansi - Agra,Kanpur - Delhi,6,4,7,2,3000,8000,4000
+Indore,Bhopal,Delhi,Haryana,2,2,4,Indore - Delhi,Bhopal - Haryana,Delhi - Indore,Haryana - Bhopal,4,6,5,9,1000,4000,6000
+Allahabad,Chitrakoot,Prayagraj,Varanasi,3,5,6,Allahabad - Prayagraj,Chitrakoot - Varanasi,Prayagraj - Allahabad,Varanasi - Chitrakoot,4,4,3,6,6000,9000,3000
+Lucknow,Agra,Aligarh,Meerut,3,3,4,Lucknow - Aligarh,Agra - Meerut,Aligarh - Lucknow,Meerut - Agra,7,7,8,3,2000,5000,1500
+Varanasi,Gorakhpur,Ayodhya,Lucknow,4,3,6,Varanasi - Ayodhya,Gorakhpur - Lucknow,Ayodhya - Varanasi,Lucknow - Gorakhpur,9,2,2,8,2000,6000,2000
+Jaipur,Bikanir,Jodhpur,Udaipur,3,2,3,Jaipur - Jodhpur,Bikanir - Udaipur,Jodhpur - Jaipur,Udaipur - Bikanir,9,5,8,9,3000,5000,3500
+Ahmedabad,Bhuj,Rajkot,Junagadh,4,3,4,Ahmedabad - Rajkot,Bhuj - Junagadh,Rajkot - Ahmedabad,Junagadh - Bhuj,5,10,5,9,3000,5000,2000
+Aurangabad,Nashik,Mumbai,Pune,3,6,5,Aurangabad - Mumbai,Nashik - Pune,Mumbai - Aurangabad,Pune - Nashik,4,8,6,3,5000,8000,8000
+Raipur,Bhopal,Amaravati,Indore,4,3,7,Raipur - Amaravati,Bhopal - Indore,Amaravati - Raipur,Indore - Bhopal,7,8,9,7,5000,9000,10000
+Bangalore,Mysuru,Ooty,Kochi,2,6,3,Bangalore - Ooty,Mysuru - Kochi,Ooty - Bangalore,Kochi - Mysuru,5,9,3,5,7000,9000,5000
+Vellore,Tirupati,Chennai,Puducherry,3,5,3,Vellore - Chennai,Tirupati - Puducherry,Chennai - Vellore,Puducherry - Tirupati,2,6,4,7,7000,8000,6000
+Coimbatore,Kanyakumari,Madurai,Thiruvananthapuram,4,5,7,Coimbatore - Madurai,Kanyakumari - Thiruvananthapuram,Madurai - Coimbatore,Thiruvananthapuram - Kanyakumari,5,5,6,7,6000,7000,12000
+Bhopal,Ujjain,Sanchi,Nagpur,2,5,3,Bhopal - Sanchi,Ujjain - Nagpur,Sanchi - Bhopal,Nagpur - Ujjain,6,10,4,4,5000,8000,3000
+Patna,Kolkata,Rourkela,Sambalpur,5,6,7,Patna - Rourkela,Kolkata - Sambalpur,Rourkela - Patna,Sambalpur - Kolkata,9,9,5,2,11000,12000,5000
+Guwahati,Shillong,Tripura,Kaziranga,3,5,3,Guwahati - Tripura,Shillong - Kaziranga,Kaziranga - Guwahati,Tripura - Shillong,6,5,7,7,7000,5000,4000
+Bangalore,Hampi,Coorg,Tirupati,4,3,4,Bangalore - Coorg,Hampi - Tirupati,Coorg - Bangalore,Tirupati - Hampi,6,2,10,4,7000,8000,3000
+Srinagar,Gulmarg,Vaishnodevi,Leh,3,7,2,Srinagar - Vaishnodevi,Gulmarg - Leh,Vaishnodevi - Srinagar,Leh - Gulmarg,9,10,10,6,10000,12000,13000
+Dehradun,Rishikesh,Mussoorie,Haridwar,2,7,4,Dehradun - Mussoorie,Rishikesh - Haridwar,Mussoorie - Dehradun,Haridwar - Rishikesh,8,6,10,5,9000,5000,10000
+Hyderabad,Warangal,Vijayawada,Visakhapatnam,3,4,6,Hyderabad - Vijayawada,Warangal - Visakhapatnam,Vijayawada - Hyderabad,Visakhapatnam - Warangal,8,5,7,7,7000,3000,7000
+Kozhikode,Coonoor,Ernakulam,Courtallam,4,5,6,Kozhikode - Ernakulam,Coonoor - Courtallam,Ernakulam - Kozhikode,Courtallam - Coonoor,8,7,4,7,6000,8000,4000
+Ch-igarh,Panipat,Patiala,Sirsa,2,7,3,Ch-igarh - Patiala,Panipat - Sirsa,Patiala - Ch-igarh,Sirsa - Panipat,6,2,5,2,7000,5000,8000
+Shimla,Manali,Dharamsala,Dalhousie,3,5,4,Shimla - Dharamsala,Manali - Dalhousie,Dharamsala - Shimla,Dalhousie - Manali,8,2,8,2,7000,4000,6500
+Ahmedabad,Ch-igarh,Srinagar,G-hinagar,5,3,5,Ahmedabad - Srinagar,Ch-igarh - G-hinagar,Srinagar - Ahmedabad,G-hinagar - Ch-igarh,3,8,4,9,7000,6000,5000
+Lucknow,Patna,Ranchi,Raipur,4,5,2,Lucknow - Ranchi,Patna - Raipur,Ranchi - Lucknow,Raipur - Patna,6,7,6,5,8000,10000,4000
+Chennai,Coimbatore,Bengaluru,Kochi,5,6,6,Chennai - Bengaluru,Coimbatore - Kochi,Bengaluru - Chennai,Kochi - Coimbatore,5,5,4,6,7000,8000,4000
+Bangalore,Mangaluru,Udupi,Hubballi,4,7,2,Bangalore - Udupi,Mangaluru - Hubballi,Udupi - Bangalore,Hubballi - Mangaluru,8,3,9,7,8000,12000,4000
+Mumbai,Panaji,Kolhapur,Solapur,5,4,5,Mumbai - Kolhapur,Panaji - Solapur,Kolhapur - Mumbai,Solapur - Panaji,2,10,8,4,7000,8000,5000
+Noida,Mathura,Gurugram,Aligarh,2,5,4,Noida - Gurugram,Mathura - Aligarh,Gurugram - Noida,Aligarh - Mathura,5,2,8,7,3500,6000,7000
+Jodhpur,Jaisalmer,Mount Abu,Udaipur,3,7,2,Jodhpur - Mount Abu,Jaisalmer - Udaipur,Mount Abu - Jodhpur,Udaipur - Jaisalmer,2,4,5,5,7000,8000,9000
+Jaipur,Kota,Ajmer,Ahmedabad,3,3,2,Jaipur - Ajmer,Kota - Ahmedabad,Ajmer - Jaipur,Ahmedabad - Kota,10,4,7,2,6000,4000,8000
+Ahmedabad,Vadodara,Surat,Nashik,2,3,1,Ahmedabad - Surat,Vadodara - Nashik,Surat - Ahmedabad,Nashik - Vadodara,7,9,6,5,5000,1000,4000
+Indore,Nagpur,Bilaspur,Patna,3,3,2,Indore - Bilaspur,Nagpur - Patna,Bilaspur - Indore,Patna - Nagpur,6,4,10,8,4000,10000,5000
